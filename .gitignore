@@ -1,0 +1,9 @@
+# Repository specific
+
+*.wdb
+*.pb
+*.jou
+*.log
+*.vcd
+test-outputs/
+.Xil/
